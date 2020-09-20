@@ -29,9 +29,9 @@ _Address:_ Belarus, Minsk \
  - RS School from EPAM  
 
 ### Education
->Vitebsk State Technological University, Vitebsk \
-Specialist of Marketing 
+>Vitebsk State University named after P.M. Masherov, Vitebsk \
+Psychologist 
 
 
 ### English level 
-`Intermediate B1`
+`Intermediate A2`
