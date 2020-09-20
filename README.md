@@ -15,7 +15,7 @@ _Address:_ Belarus, Minsk
 * __Professional skills__ \
      `HTML` \
      `CSS` \
-    `JS` \ 
+    `JS`  
     
 * __Personal skills__ \
     `Creativity` \
