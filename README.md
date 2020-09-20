@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://Liberosa.github.io/rsschool-cv/cv
