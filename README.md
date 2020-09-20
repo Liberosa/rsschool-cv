@@ -5,11 +5,11 @@
 ***********************
 _E-mail:_ smaragdus46@gmail.com \
 _Contact:_ +375 (25) 953-02-36 \
-_Address:_ Belarus, Minsk \ 
+_Address:_ Belarus, Minsk  
 ***********************
 
 #### Carrer Summary
- I'm a newbie,junior Frontend deloveper.Once upon a time i decided to be a programmist.Now i want start my career.\
+ I'm a newbie,junior Frontend deloveper.Once upon a time i decided to be a programmist.Now i want start my career.
 
 ### Skills
 * __Professional skills__ \
